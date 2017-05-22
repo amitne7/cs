@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0066a1</color>
+    <color name="colorPrimaryDark">#003478</color>
+    <color name="colorAccent">#7ba4d9</color>
+    <color name="app_toolbar_title_color">#ffffff</color>
+    <color name="list_item_img">#b6bf00</color>
+    <color name="list_item_img_dark">#5b8f22</color>
+    <color name="edit_text_border">#757575</color>
+    <color name="edit_text_border_focus">#b6bf00</color>
+    <color name="alert_title_color">#ffffff</color>
+    <color name="login_header">#000000</color>
+    <color name="button_gradient">#003478</color>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Spares</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Enter email address</string>
+    <string name="prompt_password">Enter password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="title_request_list">Philips</string>
+    <string name="title_request_detail">Request Detail</string>
+    <string name="capture_proof">Capture Proof</string>
+    <string name="login_heading">Log in with your account</string>
+    <string name="logout">Logout</string>
+
+    <!-- GCM -->
+    <string name="server_api_key">AIzaSyCW-ZUMFWgo30WCL-GhZma89Nrg0ZeQg-c</string>
+    <string name="sender_id">729798658896</string>
+</resources>

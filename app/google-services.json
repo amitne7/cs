@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "729798658896",
+    "project_id": "phillips-cs-part"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729798658896:android:c0760c9652b7d9a2",
+        "android_client_info": {
+          "package_name": "com.phillips.phillipscs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-ZUMFWgo30WCL-GhZma89Nrg0ZeQg-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
